@@ -1,0 +1,16 @@
+{
+  "file": "替换版_V3.png",
+  "version": "V3",
+  "source": "../../素材/帧的原版/40秒帧.png",
+  "appearance_reference": "替换版_V2.png",
+  "prompt": "提示词_V3.txt",
+  "required_phrase": "像正常站在地面上一样踩着",
+  "correction": "鞋跟与前脚掌同时踩实，鞋头与鞋跟基本同高；避免脚尖下垂、踮脚或鞋底向外翻，靠踝关节弯折维持原支撑位置。",
+  "review": "生成后目视鞋姿比V2更接近平踩；保留输出供用户进一步核对具体接触关系，不保证像素级位置一致。",
+  "output_size": [
+    1586,
+    992
+  ],
+  "sha256": "17be5b1441ae4ef944566ac40b91c95aa3fea7e35d84d5a014aabe0cefa39f88",
+  "preserved": "V1、V2及全部14张原版帧未修改。"
+}
