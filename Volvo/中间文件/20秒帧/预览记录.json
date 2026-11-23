@@ -1,0 +1,34 @@
+{
+  "status": "用户选择先保留当前预览；未执行蒙版合成，尚非背景严格不变的最终成品",
+  "source": "../../素材/帧的原版/20秒帧.png",
+  "source_size": [
+    1728,
+    1080
+  ],
+  "source_sha256": "a76c5043a9e1806a659430f39ae98f4dd0e578acccb5ebd32bdddf48cf6ad0b2",
+  "current_preview": "预览_v2.png",
+  "previews": [
+    {
+      "file": "预览_v1.png",
+      "size": [
+        1629,
+        965
+      ],
+      "sha256": "6f573d14efdcc11dbd884d798147098a0470a2b874368817a14796c47d8b407f"
+    },
+    {
+      "file": "预览_v2.png",
+      "size": [
+        1629,
+        965
+      ],
+      "sha256": "6361797140938c614e81a743853994f9d0bee79004efa81c13c5002f5f2121a1"
+    }
+  ],
+  "unprocessed_frames": [
+    "首帧.png",
+    "10秒帧.png",
+    "15秒帧.png"
+  ],
+  "limitations": "生成模型改变了背景部分细节及输出画幅；不承诺人物外区域与原图逐像素一致。原始素材全部未修改。"
+}
